@@ -1,3 +1,3 @@
 # paresh-sumitra
 
-![](venue.png)
+![](![](assets/img/thumbnail.png))
