@@ -1,3 +1,3 @@
 # paresh-sumitra
 
-![](![](assets/img/thumbnail.png))
+https://hello-arun.github.io/paresh-sumitra/
