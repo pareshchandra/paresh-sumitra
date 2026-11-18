@@ -1,3 +1,3 @@
-# paresh-sumitra
+# Paresh Chandra
 
-github.com/pareshchandra
+Academic homepage for a physics researcher.
